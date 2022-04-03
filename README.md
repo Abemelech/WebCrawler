@@ -16,5 +16,5 @@ The Webcrawler application fetchs the HTML document from the URL, Parse out the 
 
 webcrawler_main contains a class named WebCrawler with an initalizing argument of the URL
 
-    * WebCrawler("the https url") *
+    WebCrawler("the https url")
 
